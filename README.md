@@ -101,6 +101,8 @@ Alice Johnson,12,3,50.0,Single
 Bob Smith,27,2,70.0,Double
 ```
 
+![The menu](https://github.com/sseellyy/Hotel/blob/master/Снимок%20экрана%202025-05-12%20083214.png)
+
 ---
 
 ## **🛠 Running the Application**
