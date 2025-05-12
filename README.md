@@ -47,6 +47,8 @@ This project offers a clean, structured, and beginner-friendly implementation of
   * 35–40 → Luxury
 * 🔒 Prevents duplicate room bookings.
 
+![The menu](https://github.com/sseellyy/Hotel/blob/master/Снимок%20экрана%202025-05-12%20082738.png)
+
 ---
 
 ## **🧠 Technical Overview**
