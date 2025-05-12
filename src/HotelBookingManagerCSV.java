@@ -9,6 +9,7 @@ class Booking {
     double pricePerNight;
     String roomType;
 
+
     public Booking(String guestName, int roomNumber, int nights, double pricePerNight) {
         this.guestName = guestName;
         this.roomNumber = roomNumber;
